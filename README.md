@@ -1,7 +1,5 @@
 # Flags
 
-![Screenshot](.github/screenshot.png)
-
 Country flags in SVG format for your Laravel application. Uses
 [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css) icons under the
 hood.
