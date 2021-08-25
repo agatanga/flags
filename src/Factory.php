@@ -88,8 +88,13 @@ class Factory
         $path = sprintf('%s/%s.svg', $ratio, $name);
 
         if (!isset($this->memo[$path])) {
-            $contents = trim($this->filesystem->get($this->dir . '/' . $path));
-            $contents = str_replace(' id="flag-icon-css-' . $name . '"', '', $contents);
+            try {
+                $contents = trim($this->filesystem->get($this->dir . '/' . $path));
+                $contents = str_replace(' id="flag-icon-css-' . $name . '"', '', $contents);
+            } catch (\Exception $e) {
+                $contents = '';
+            }
+
             $this->memo[$path] = $contents;
         }
 
