@@ -52,7 +52,7 @@ class Factory
         [$name, $ratio] = $this->splitRatioAndName($name);
 
         return new Flag(
-            $this->contents($name, $ratio),
+            $this->contents(strtolower($name), $ratio),
             $this->attributes($class, $attributes)
         );
     }
