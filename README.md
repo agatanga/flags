@@ -1,7 +1,7 @@
 # Flags
 
 Country flags in SVG format for your Laravel application. Uses
-[lipis/flag-icon-css](https://github.com/lipis/flag-icon-css) icons under the
+[lipis/flag-icons](https://github.com/lipis/flag-icons) icons under the
 hood.
 
 ## Installation
@@ -43,5 +43,5 @@ vi config/flags.php
 
 ## Credits
 
- - [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css/) - Wonderful SVG flags.
+ - [lipis/flag-icons](https://github.com/lipis/flag-icons) - Wonderful SVG flags.
  - [blade-ui-kit/blade-icons](https://github.com/blade-ui-kit/blade-icons) - Code and Idea.
