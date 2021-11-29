@@ -16,7 +16,6 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "components/flag-icon-css": "dev-master",
         "illuminate/contracts": "^7.14|^8.0",
         "illuminate/filesystem": "^7.14|^8.0",
         "illuminate/support": "^7.14|^8.0"

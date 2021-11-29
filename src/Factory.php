@@ -33,11 +33,7 @@ class Factory
         $this->filesystem = $filesystem;
         $this->defaultRatio = $defaultRatio ?: '4x3';
         $this->defaultClass = $defaultClass;
-        $this->dir = sprintf(
-            '%s/%s',
-            Env::get('COMPOSER_VENDOR_DIR', base_path('vendor')),
-            'components/flag-icon-css/flags'
-        );
+        $this->dir = __DIR__ . '/../svg';
     }
 
     /**
