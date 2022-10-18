@@ -6,7 +6,7 @@
   </defs>
   <path fill="#009543" d="M0 0h512v512H0z"/>
   <path fill="#d21034" d="M0 0h512v256H0z"/>
-  <g clip-path="url(#a)" transform="scale(.56889 1.0779)">
+  <g clip-path="url(#vu-a)" transform="scale(.56889 1.0779)">
     <path stroke="#fdce12" stroke-width="110" d="m0 0 420 195h480v85H420L0 475"/>
     <path fill="none" stroke="#000" stroke-width="60" d="m0 0 420 195h480m0 85H420L0 475"/>
   </g>
