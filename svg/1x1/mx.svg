@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icons-mx" viewBox="0 0 512 512">
   <defs>
-    <radialGradient xlink:href="#a" id="b" cx="842.3" cy="103.7" r="25.9" gradientTransform="matrix(.11321 .02876 -.02762 .11359 180.2 193.2)" gradientUnits="userSpaceOnUse"/>
-    <radialGradient xlink:href="#a" id="c" cx="651.5" cy="550.5" r="25.9" gradientTransform="matrix(-.10753 -.04307 .03971 -.09991 375.3 9.8)" gradientUnits="userSpaceOnUse"/>
-    <radialGradient xlink:href="#a" id="d" cx="380.8" cy="740.4" r="25.9" gradientTransform="matrix(.06029 .00225 -.00274 .11843 377.4 -120)" gradientUnits="userSpaceOnUse"/>
-    <linearGradient id="a">
+    <radialGradient xlink:href="#mx-a" id="mx-b" cx="842.3" cy="103.7" r="25.9" gradientTransform="matrix(.11321 .02876 -.02762 .11359 180.2 193.2)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#mx-a" id="mx-c" cx="651.5" cy="550.5" r="25.9" gradientTransform="matrix(-.10753 -.04307 .03971 -.09991 375.3 9.8)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#mx-a" id="mx-d" cx="380.8" cy="740.4" r="25.9" gradientTransform="matrix(.06029 .00225 -.00274 .11843 377.4 -120)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient id="mx-a">
       <stop offset="0" stop-color="#fff"/>
       <stop offset="1" stop-color="#f15770"/>
     </linearGradient>

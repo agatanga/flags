@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icons-gs" viewBox="0 0 512 512">
   <defs>
-    <linearGradient id="b">
+    <linearGradient id="gs-b">
       <stop offset="0" stop-color="#d5dfff"/>
       <stop offset="1" stop-color="#fff"/>
     </linearGradient>
-    <linearGradient id="a">
+    <linearGradient id="gs-a">
       <stop offset="0" stop-color="#474747"/>
       <stop offset="1" stop-color="#f50"/>
     </linearGradient>
-    <linearGradient xlink:href="#a" id="c" x1="109.3" x2="110.9" y1="218.5" y2="173.4" gradientTransform="matrix(1.03296 0 0 .44588 300.5 79.8)" gradientUnits="userSpaceOnUse"/>
-    <linearGradient id="d" x1="125.9" x2="126" y1="316.4" y2="337.2" gradientTransform="matrix(.84238 0 0 .54673 300.5 79.8)" gradientUnits="userSpaceOnUse">
+    <linearGradient xlink:href="#gs-a" id="gs-c" x1="109.3" x2="110.9" y1="218.5" y2="173.4" gradientTransform="matrix(1.03296 0 0 .44588 300.5 79.8)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient id="gs-d" x1="125.9" x2="126" y1="316.4" y2="337.2" gradientTransform="matrix(.84238 0 0 .54673 300.5 79.8)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#b50000"/>
       <stop offset="1" stop-color="#ffc500"/>
     </linearGradient>
-    <linearGradient xlink:href="#b" id="e" x1="407.9" x2="456.4" y1="149.4" y2="147.4" gradientTransform="matrix(.3824 0 0 1.20437 300.5 79.8)" gradientUnits="userSpaceOnUse"/>
-    <linearGradient xlink:href="#a" id="f" x1="215.8" x2="229" y1="103" y2="103" gradientTransform="matrix(.50678 0 0 .9088 300.5 79.8)" gradientUnits="userSpaceOnUse"/>
-    <linearGradient xlink:href="#b" id="g" x1="117.6" x2="78.2" y1="1040.4" y2="1003.7" gradientTransform="matrix(1.75297 0 0 .26273 300.5 79.8)" gradientUnits="userSpaceOnUse"/>
-    <linearGradient xlink:href="#b" id="h" x1="264.7" x2="255" y1="246" y2="226.4" gradientTransform="matrix(.60628 0 0 .75962 300.5 79.8)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#gs-b" id="gs-e" x1="407.9" x2="456.4" y1="149.4" y2="147.4" gradientTransform="matrix(.3824 0 0 1.20437 300.5 79.8)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#gs-a" id="gs-f" x1="215.8" x2="229" y1="103" y2="103" gradientTransform="matrix(.50678 0 0 .9088 300.5 79.8)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#gs-b" id="gs-g" x1="117.6" x2="78.2" y1="1040.4" y2="1003.7" gradientTransform="matrix(1.75297 0 0 .26273 300.5 79.8)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#gs-b" id="gs-h" x1="264.7" x2="255" y1="246" y2="226.4" gradientTransform="matrix(.60628 0 0 .75962 300.5 79.8)" gradientUnits="userSpaceOnUse"/>
   </defs>
   <path fill="#006" d="M0 0h512v512H0Z"/>
   <path fill="#6a4c2d" stroke="#000" stroke-width=".9" d="M373.4 348.6s-2.3 6-3.6 6c-1.3 0-6-2.5-6-2.5s-3.5 5.5-5.3 5.8c-1.8.4-6.6-.8-6.6-.8s-4.5 0-4.7-.6c-.2-.7.2-2 .2-2s-6.6 5.2-8 4.9c-1.5-.3-6.4-6.5-6.4-6.5l-.8 3.2-9.3-.3-8.2-5.2s-4.6 7.5-4.8 7.3c-.1-.1-8 1.8-8 1.8l-.5-1.4-5.2-3.1s4-5.8 4-6l-1.9-.7-3 2.4-6 4-6-2.8 2.6-5 .3-3.6 4.8-7.1 58-56.4 28.6 52.8z"/>

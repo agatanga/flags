@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icons-bz" viewBox="0 0 512 512">
   <defs>
-    <radialGradient id="a">
+    <radialGradient id="bz-a">
       <stop offset="0" stop-color="#ffef5d"/>
       <stop offset="1" stop-color="#ea5700"/>
     </radialGradient>
-    <radialGradient id="b">
+    <radialGradient id="bz-b">
       <stop offset="0" stop-color="#952d1a"/>
       <stop offset="1" stop-color="#570a00"/>
     </radialGradient>
-    <radialGradient xlink:href="#a" id="c" cx="247.1" cy="238.3" r="36" fx="247.1" fy="238.3" gradientTransform="scale(1.22624 .8155)" gradientUnits="userSpaceOnUse"/>
-    <radialGradient xlink:href="#a" id="d" cx="322" cy="152.9" r="10.6" fx="322" fy="152.9" gradientTransform="scale(.93615 1.06821)" gradientUnits="userSpaceOnUse"/>
-    <radialGradient xlink:href="#b" id="e" cx="364.2" cy="237.8" r="36" fx="364.2" fy="237.8" gradientTransform="scale(1.2242 .81686)" gradientUnits="userSpaceOnUse"/>
-    <radialGradient xlink:href="#b" id="f" cx="468.1" cy="156.1" r="10.7" fx="468.1" fy="156.1" gradientTransform="scale(.95596 1.04607)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#bz-a" id="bz-c" cx="247.1" cy="238.3" r="36" fx="247.1" fy="238.3" gradientTransform="scale(1.22624 .8155)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#bz-a" id="bz-d" cx="322" cy="152.9" r="10.6" fx="322" fy="152.9" gradientTransform="scale(.93615 1.06821)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#bz-b" id="bz-e" cx="364.2" cy="237.8" r="36" fx="364.2" fy="237.8" gradientTransform="scale(1.2242 .81686)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#bz-b" id="bz-f" cx="468.1" cy="156.1" r="10.7" fx="468.1" fy="156.1" gradientTransform="scale(.95596 1.04607)" gradientUnits="userSpaceOnUse"/>
   </defs>
   <path fill="#ce1126" d="M0 0h512v512H0z"/>
   <path fill="#003f87" d="M0 36.6h512v438.8H0z"/>
@@ -86,7 +86,7 @@
       <path fill="#fff" stroke-width=".3" d="M292.3 160.1c.7 0 1.6-.9 3.2.3 1.1.8-1.8 1.5-1.3 1.4-1.4.2-1.8-.5-1.9-1.2 0-.1-.2-.5 0-.5zm8.4.8c.7-1.4 1.8-1 2.8-.8 1 .3.7.1 1.7.7-1.2.1-.9.2-1.7.6-.9.5-1.7.7-2.3.3-.2-.2-.7-.5-.7-1 0 .2 0 .3.2.3z"/>
       <path fill="#000" stroke-width=".3" d="M293.8 161.4c.4 0 .7-.4.7-.8 0-.6-.3-1-.7-1-.5 0-.9.4-.9 1 0 .4.4.8.9.8zm8.6.2c.4 0 .7-.4.7-1a.8.8 0 0 0-.8-.8c-.4 0-.7.3-.7.8 0 .6.4 1 .8 1z"/>
     </g>
-    <g id="g">
+    <g id="bz-g">
       <g fill="none">
         <path d="M345.9 213.7a3.9 3.9 0 0 0-1.9-1.4l-2-1c-.7-.4-1.7-.5-2.4-.9m.5 2.6-.9-.5c-.3 0-.7 0-1-.2 0 0 0-.2-.2-.2a3.5 3.5 0 0 1-2.4-1.3m-62.8-9.3c1 .7 3.2 2.2 3.4 5.1a10.5 10.5 0 0 0 1 3M264 202c.5 1.7.6 7.4 6 13.4m-5-21.4c-.4 1.1-1 2.2.2 3m14.4 10.7c1.1-2.6 4.6-2.4 4.6-4.8"/>
         <path d="M284.8 207.3c-.3-2.9-1-4.5-.4-8.7.2-1.2.4-5.9 0-8.1 0 0 1.6 7.8-3.7 9.3m34.4 12.5c0-4 1-6.2 1-6.2 1.2-5.6-1.2-7.7-.3-9.1.9-1.2 2-3.8.5-8.9 0 0 2.8 10.5-4.5 10.5-7.5 0-7.2-2.7-7.2-2.7"/>
@@ -114,7 +114,7 @@
       <path fill="#fff" stroke-width=".3" d="M456.4 160.1c-.7 0-1-.9-3.1.3-1.1.7 1.8 1.5 1.4 1.4 1.2.2 1.6-.5 1.7-1.2 0-.1.2-.5 0-.5zm-8.3.8c0-.8-1.8-1-2.9-.8-1 .3-.5.1-1.5.7 1 .1.7.2 1.6.6.9.5 1 .9 2.3.3.3-.1.7-.5.8-1 0 .2-.2.3-.3.3z"/>
       <path fill="#000" stroke-width=".3" d="M455.1 161.4a.8.8 0 0 1-.8-.8c0-.6.3-1 .8-1 .4 0 .7.4.7 1 0 .4-.3.8-.7.8zm-8.7.2c-.4 0-.7-.4-.7-1 0-.5.4-.8.8-.8s.7.3.7.8c0 .6-.3 1-.8 1z"/>
     </g>
-    <use xlink:href="#g" width="100%" height="100%" fill="#730000" transform="matrix(-1 0 0 1 748.8 0)"/>
+    <use xlink:href="#bz-g" width="100%" height="100%" fill="#730000" transform="matrix(-1 0 0 1 748.8 0)"/>
     <g fill="none">
       <path fill="#730000" d="M491.6 193.5c.5.2 2-2 .5-3 0 0-.5-2-2-2 0 0-1.4-2-3.4-1.7 0 0-2-1.5-2.9-1.4-1 .2-3 2.2-3 3-.2.5 0 1.8.5 2.4.6.5 1-.1 1-1 0 0-.3 1.5.9 2.2 1.2.7 1.1 0 1.2-.7 0 0 .3 1.6 1.1 2 .9.2 1.4-.5 2-.5 0 0-1 .8-.3 1.3.7.6 1.5.3 2 0 .6-.5.3-1.8 2.4-.6z"/>
       <path d="M482.5 189.8c.5-1.8 2.2-3.2 4-2.9m-2 4.4c.1-.4.2-.8.5-1.2 1-1.6 3-1.6 4.6-1.9m-2.5 4.5c.6-.4.8-1.1 1.4-1.4a5.3 5.3 0 0 1 3.2-.7"/>

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-tw" viewBox="0 0 640 480">
-  <clipPath id="a">
+  <clipPath id="tw-a">
     <path d="M0 0h640v480H0z"/>
   </clipPath>
   <g clip-path="url(#a)">

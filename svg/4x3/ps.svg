@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-ps" viewBox="0 0 640 480">
   <defs>
-    <clipPath id="a">
+    <clipPath id="ps-a">
       <path fill-opacity=".7" d="M-118 0h682.7v512H-118z"/>
     </clipPath>
   </defs>
