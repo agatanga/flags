@@ -86,7 +86,7 @@ class Factory
         if (!isset($this->memo[$path])) {
             try {
                 $contents = trim($this->filesystem->get($this->dir . '/' . $path));
-                $contents = str_replace(' id="flag-icon-css-' . $name . '"', '', $contents);
+                $contents = str_replace(' id="flag-icons-' . $name . '"', '', $contents);
             } catch (\Exception $e) {
                 $contents = '';
             }
